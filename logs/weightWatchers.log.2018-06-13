@@ -1,0 +1,9 @@
+06/13/18-12:44:50.069 INFO  core.pom.BasePage - Browser is: Safari;
+
+06/13/18-12:44:50.606 INFO  core.util.Config - TID [13] Was load properties file [/config/prod.properties]
+06/13/18-12:44:58.390 INFO  core.pom.FindAMeetingPageImpl - WEIGHT WATCHERS STORE 23RD ST-5TH AVE
+06/13/18-12:44:58.516 INFO  core.pom.FindAMeetingPageImpl - 0.49 mi.
+06/13/18-12:44:59.210 INFO  core.pom.FindAMeetingPageImpl - 
+TODAY`s hours of operation:
+06/13/18-12:44:59.313 INFO  core.pom.FindAMeetingPageImpl - 9:30 AM – 2:00 PM
+06/13/18-12:44:59.371 INFO  core.pom.FindAMeetingPageImpl - 5:00 PM – 8:00 PM
